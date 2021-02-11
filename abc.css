@@ -102,3 +102,6 @@ li.site-footer__linklist-item{
   html{
   	padding-bottom: 0 !important
   }
+input#ContactFooter-email:focus{
+    outline: none;
+}
